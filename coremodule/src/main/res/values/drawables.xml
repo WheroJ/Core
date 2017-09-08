@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="transparent" type="drawable">#00000000</item>
+    <item name="main_bg" type="drawable">@color/main_color</item>
+    <item name="white_backgroud" type="drawable">#ffffff</item>
+
+    <item name="green" type="drawable">#26ae5f</item>
+    <item name="blue" type="drawable">#2da4fb</item>
+</resources>
